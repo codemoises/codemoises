@@ -16,9 +16,9 @@
  ##
 
  <div align="center">
-  <a href="https://discord.gg/taldo mwises#7476" target="_blank" rel="external"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=blueviolet" alt="discord"></a>
+  <a href="https://discord.gg/taldo mwises#7476" target="_blank" rel="external"> <img src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=blueviolet" alt="discord"></a>
   <a href="https://www.instagram.com/moisescruz_/" target="_blank" rel="external"> <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=blueviolet&link=https://www.instagram.com/moisescruz_//%3E" alt="instagram"></a>
-  <a href="http://www.linkedin.com/in/moises-cruz-04531521b/" target="_blank" rel="external"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blueviolet" alt="linkedin"></a>
-  <a href="http://twitter.com/m____oises" target="_blank" rel="external"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blueviolet" alt="twitter"></a>
-  <a href="https://open.spotify.com/user/315rjp5b4vu7j65exsrl56hxkrmu?si=7fe0cf93f0684f68" target="_blank" rel="external"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=blueviolet" alt="spotify"></a>
+  <a href="http://www.linkedin.com/in/moises-cruz-04531521b/" target="_blank" rel="external"> <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=blueviolet" alt="linkedin"></a>
+  <a href="http://twitter.com/m____oises" target="_blank" rel="external"> <img src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=blueviolet" alt="twitter"></a>
+  <a href="https://open.spotify.com/user/315rjp5b4vu7j65exsrl56hxkrmu?si=7fe0cf93f0684f68" target="_blank" rel="external"> <img src="https://img.shields.io/badge/Spotify-1C1C1C?&style=for-the-badge&logo=spotify&logoColor=blueviolet" alt="spotify"></a>
 </div>
