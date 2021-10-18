@@ -6,7 +6,7 @@
 
  <div>
   <a href="https://github.com/moFRu7">
-   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=moFRu7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="143em" src="https://github-readme-stats.vercel.app/api?username=moFRu7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moFRu7&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block" align="center"><br>
@@ -24,6 +24,3 @@
   <a href="http://twitter.com/m____oises" target="_blank" rel="external"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
   <a href="https://open.spotify.com/user/315rjp5b4vu7j65exsrl56hxkrmu?si=7fe0cf93f0684f68" target="_blank" rel="external"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"></a>
 </div>
-
-  
-  ![Snake animation](https://github.com/moFRu7/moFRu7/blob/output/github-contribution-grid-snake.svg)
