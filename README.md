@@ -1,6 +1,4 @@
-# moFRu7
- 
-<img src="developer.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="developer">
+ <img src="developer.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="developer">
 
 <p style="align=left"> 🌎 Olá, meu nome é Moises Cruz. Sou <strong>Desenvolvedor de Front-End iniciante</strong>.</p>
 
