@@ -1,4 +1,4 @@
-<p style="align=left"> 🌎 Olá, meu nome é Moises Cruz. Sou <strong>Desenvolvedor de Front-End iniciante</strong>.</p>
+<p style="align=left"> 🌎 Olá, meu nome é Moises Cruz. Sou <strong>Desenvolvedor Web Iniciante</strong>.</p>
 
  <div>
   <a href="https://github.com/moFRu7">
