@@ -10,7 +10,6 @@
    <img alt="moFRu7-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img alt="moFRu7-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img src="developer.svg" min-width="300px" max-width="300px" width="220px" align="right" alt="developer">
-   
 </div>
  
  ##
