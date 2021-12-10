@@ -9,7 +9,7 @@
    <img alt="moFRu7-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img alt="moFRu7-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img alt="moFRu7-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img alt="moFru7-react" height="30" width="40" arc="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img alt="moFRu7-react" height="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img src="developer.svg" min-width="300px" max-width="300px" width="220px" align="right" alt="developer">
 </div>
  
