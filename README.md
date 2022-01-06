@@ -1,4 +1,4 @@
-<img src="developer.svg" min-width="300px" max-width="300px" width="220px" align="right" alt="developer">
+<img src="developer.svg" min-width="300px" min-width="400px" max-width="400px" width="400px" alt="developer">
 
 <p align="left"> 
  🌎 Olá, meu nome é Moises Cruz. Sou <strong>Desenvolvedor Front-End.</strong></p>
