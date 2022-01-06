@@ -1,7 +1,7 @@
 <img src="developer.svg" min-width="300px" max-width="300px" width="220px" align="right" alt="developer">
 
 <p align="left"> 
- 🌎 Olá, meu nome é Moises Cruz. Sou <strong>Desenvolvedor Web Iniciante.</strong></p>
+ 🌎 Olá, meu nome é Moises Cruz. Sou <strong>Desenvolvedor Front-End.</strong></p>
 
 <p align="left">
  🚀 Habilidade: <strong>HTML, CSS, JavaScript, React.js e Next.js.</strong>
