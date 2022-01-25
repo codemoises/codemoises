@@ -4,7 +4,7 @@
  🌎 Olá, meu nome é Moises Cruz. Sou <strong>Desenvolvedor Front-End.</strong></p>
 
 <p align="left">
- 🚀 Habilidade: <strong>HTML, CSS, JavaScript, React.js e Next.js.</strong>
+ 🚀 Habilidades: <strong>HTML, CSS, JavaScript, React.js e Next.js.</strong>
 </p>
 
 <p align="left">
