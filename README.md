@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
- 📫 Interejam comigo em alguma rede social!
+ 📫 Interage comigo em alguma rede social!
 </p>
 
  <div align="left">
