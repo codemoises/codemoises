@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
- 💼 Ferramentas: <strong>VSCode, Git e GitHub, Figma.</strong>
+ 💼 Ferramentas: <strong>VSCode, Git e GitHub, Figma, Vercel e Netlify.</strong>
 </p>
 
 <p align="left">
