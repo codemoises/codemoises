@@ -11,10 +11,6 @@
  💼 Ferramentas: <strong>VSCode, Git e GitHub, Figma, Vercel e Netlify.</strong>
 </p>
 
-/*<p align="left">
- 💻 Meu portfólio: https://codemoises.vercel.app/
-</p>*/
-
 <p align="left">
  📫 Me segue!
 </p>
