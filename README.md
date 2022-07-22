@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
- 📫 Me segue!
+ 📫 Me segue por aí!
 </p>
 
  <div align="left">
