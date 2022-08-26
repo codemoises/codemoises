@@ -1,18 +1,13 @@
-<img src="developer.svg" align="right" min-width="300px" max-width="300px" width="300px" alt="developer">
+<h3 align="left">
+hi (:
+</h3>
 
 <p align="left"> 
- 🌎 Olá, meu nome é Moises Cruz. Sou <strong>Desenvolvedor Front-End.</strong></p>
+ i'm a front-end developer with a passion for web programming and tech
+ </p>
 
 <p align="left">
- 🚀 Habilidades: <strong>HTML, CSS, JavaScript, React.js e Next.js.</strong>
-</p>
-
-<p align="left">
- 💼 Ferramentas: <strong>VSCode, Git e GitHub, Figma, Vercel e Netlify.</strong>
-</p>
-
-<p align="left">
- 📫 Me segue por aí!
+ find me:
 </p>
 
  <div align="left">
