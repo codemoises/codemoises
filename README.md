@@ -6,7 +6,7 @@ hi (:
  i'm a front-end developer with a passion for<br> web programming and tech
  </p>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemoises&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwises&theme=tokyonight)
 
 <br>
 
