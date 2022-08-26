@@ -3,11 +3,9 @@ hi (:
 </h3>
 
 <p align="left"> 
- i'm a front-end developer with a passion for web programming and tech
+ i'm a front-end developer with a passion for<br> web programming and tech
  </p>
  
- <br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemoises&theme=tokyonight)
 
 <br>
