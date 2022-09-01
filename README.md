@@ -10,9 +10,9 @@ hi (:
 
 <br>
 
-<h4 align="left">
+<p align="left">
  find me:
-</h4>
+</p>
 
  <div align="left">
   <a href="https://www.instagram.com/moisescruz_/" target="_blank" rel="external"> <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=blueviolet&link=https://www.instagram.com/moisescruz_//%3E" alt="instagram"></a>
