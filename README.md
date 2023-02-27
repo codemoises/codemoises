@@ -1,6 +1,6 @@
 <p align="left"> 
- i'm a front-end developer with a passion for<br> web programming and tech
- </p>
+  front-end developer
+</p>
  
  <br>
  
