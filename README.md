@@ -1,5 +1,5 @@
 <p align="left"> 
-  front-end developer
+  developer
 </p>
  
  <br>
